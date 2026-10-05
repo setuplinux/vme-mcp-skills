@@ -30,5 +30,5 @@ it is not inventory or a migration-readiness test.
 
 See [validation and scenario limits](skills/vme-mcp/references/validation.md)
 and [provenance/reuse status](PROVENANCE.md). No vendor endorsement or support
-promise. No new redistribution license is asserted; owner license review is
-required before public publication of the imported material.
+promise. Published with the owner's authorization; no open-source license has
+been selected. Public visibility does not itself grant redistribution rights.

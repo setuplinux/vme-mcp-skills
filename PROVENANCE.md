@@ -1,6 +1,6 @@
 # Provenance and reuse status
 
-This local implementation was prepared at the skill owner's request on
+This implementation was prepared at the skill owner's request on
 2026-10-05. It is not official HPE guidance.
 
 ## Owner-supplied archive
@@ -26,7 +26,8 @@ connection, protocol, change-control, inventory and migration guidance.
 New fixtures and tests use synthetic data only. No source-author or copyright
 notice was present in the two imported Python files; none was removed.
 No LICENSE file or express redistribution grant was found in the archive.
-Owner authorization covers this local work, not an inferred open-source license.
+The owner authorized this work and public publication, not an inferred
+open-source license grant.
 
 ## Public administrator source
 
@@ -46,8 +47,9 @@ The official Morpheus OpenAPI repository declares Apache-2.0; that does not
 license this archive or the administrator skill. No vendor documentation
 archive or source tree is redistributed here.
 
-**Publication gate:** have the owner confirm rights and choose any intended
-license before pushing or publishing these imported/derived files. Do not
-invent attribution, remove a later-discovered notice or assume public visibility
-means permission to redistribute. Local implementation and validation do not
-resolve that gate.
+**Publication status:** the owner explicitly authorized public publication on
+2026-10-05. No open-source license has been selected or added. That publication
+approval is not an inferred redistribution or relicensing grant to others.
+Do not invent attribution, remove a later-discovered notice or assume public
+visibility means permission to redistribute. Resolve applicable rights with
+the owner before adding a license or incorporating additional third-party work.

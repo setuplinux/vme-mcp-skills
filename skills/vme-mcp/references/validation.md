@@ -85,9 +85,9 @@ files for private names, endpoints, IDs, usernames/paths, secrets, raw responses
 archives and generated caches. Pattern scanning supplements manual review;
 it cannot prove absence of every secret.
 
-Keep private evidence and completed worksheets out of the repository. Resolve
-the owner/licensing publication gate in the repository's provenance record
-before pushing; passing tests is not permission to publish.
+Keep private evidence and completed worksheets out of the repository. Obtain
+the owner's publication approval and preserve the licensing status recorded
+in the repository's provenance record; passing tests is not permission to publish.
 Review the full history being published as well as the current tree: deleting
 a file in a later commit does not remove it from earlier commits.
 

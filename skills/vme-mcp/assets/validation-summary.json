@@ -36,7 +36,7 @@
   "publication": {
     "private_pattern_scan": "no findings in staged public files; supplemented by manual source review",
     "raw_archive_or_inventory_included": false,
-    "remote_publish_performed": false,
-    "owner_license_confirmation_required": true
+    "owner_publication_authorized_on": "2026-10-05",
+    "open_source_license_selected": false
   }
 }
