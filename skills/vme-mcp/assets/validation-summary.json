@@ -1,0 +1,42 @@
+{
+  "validated_on": "2026-10-05",
+  "execution_origin": "offline Python unittest on Windows and public documentation research",
+  "archive_baseline": {
+    "tests": 45,
+    "result": "passed",
+    "manifest_entries_verified": 18,
+    "archive_sha256": "a6b85dc7d8a2677b57274adc22224565e80c77f539f1687864301bc10973d0f3"
+  },
+  "package_suite": {
+    "command": "python -m unittest discover -s skills\\vme-mcp\\tests -v",
+    "tests": 57,
+    "result": "passed",
+    "probe_fixture_cases": 8,
+    "manual_scenario_cases": 17,
+    "manual_scenario_claim": "Documentation expectations reviewed; structure checked automatically. No empirical agent-compliance evaluation.",
+    "checks": [
+      "original health probe protocol, transport, schema and redaction regressions",
+      "nested failures and explicit denial categories through actual probe code",
+      "uncallable advertised health tool and exact pagination budget",
+      "no inventory, mutation or specialist dispatch",
+      "frontmatter and internal Markdown links",
+      "CLI help and empty-environment configuration failure without network"
+    ]
+  },
+  "tested_files_sha256": {
+    "scripts/mcp_probe.py": "341fee1b7eb97a8cca01bb9527a8610b810c3ed6af3db5c2d833a6cd4e9c0514",
+    "tests/test_mcp_probe.py": "67e772adc131fa896072f28684578b11ef73a9d0bc9abce5af87dd850c686b01"
+  },
+  "source_limits": [
+    "Public Morpheus API pages identified OpenAPI version 9.0.1, not the target build.",
+    "Migration candidate/options routes were verified as documented references, not complete endpoint schemas or callable MCP operations.",
+    "HPE release-note retrieval returned JavaScript authentication/session shell, not readable release notes.",
+    "Synthetic fixtures are not evidence of live product compatibility or outcomes."
+  ],
+  "publication": {
+    "private_pattern_scan": "no findings in staged public files; supplemented by manual source review",
+    "raw_archive_or_inventory_included": false,
+    "remote_publish_performed": false,
+    "owner_license_confirmation_required": true
+  }
+}
